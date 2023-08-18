@@ -3,9 +3,5 @@
 A new Flutter module project.
 
 ## Getting Started
+The "crashlytics_service" GetX Service that coded by flutter(dart) depends on [GetX and firebase_crashlytics package] for manage all firebase_crashlytics functionalities..
 
-For help getting started with Flutter development, view the online
-[documentation](https://flutter.dev/).
-
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
