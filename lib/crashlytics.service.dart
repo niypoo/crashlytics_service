@@ -43,6 +43,8 @@ class CrashlyticsService extends GetxService {
     dynamic exception,
     StackTrace stack,
   ) async {
+    print('exception $exception');
+    print('stack $stack');
     await FirebaseCrashlytics.instance.recordError(exception, stack);
   }
 

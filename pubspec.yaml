@@ -9,7 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  get: ^4.6.5
+  get: ^4.6.6
   firebase_crashlytics: ^3.3.4
 
 dev_dependencies:
